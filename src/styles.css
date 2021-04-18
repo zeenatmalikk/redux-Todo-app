@@ -1,9 +1,25 @@
-.App{
-    font-family: sans-serif;
-    text-align: center;
+.App {
+  background-color: #feb95d;
 }
 
-body{
-    background-color: aqua;
-    color: black;
+.nodata {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.listofdata {
+  font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.inputstyle {
+  margin-left: 20%;
+}
+
+img {
+  margin-left: 10%;
+  height: 440px;
+  background-color: #feb95d;
 }
